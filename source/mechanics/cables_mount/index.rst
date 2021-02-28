@@ -1,5 +1,5 @@
-Cable Management
-================
+Cable Management To Mount
+=========================
 The connection to the mount consists of 3 wires power supply (one ground 2,5 mm
 :sup:`2`, one 12V 1,5 mm :sup:`2` for PC, one 12V 1,5 mm :sup:`2` for UPB) and a
 single line ethernet cat6 wire.,nothing else. So there is no USB connection
