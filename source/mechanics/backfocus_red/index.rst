@@ -1,7 +1,7 @@
-Backfocus calculation
-=====================
-My setup is on the telecope side a reduces TRED379 from teleskop-service. This
-reducer needs for my focal length of 700mm a backfocus of 56mm. The image train
+Backfocus calculation for QSI690 and TSRED379
+=============================================
+My setup is on the telescope side a reducer TRED379 from teleskop-service. This
+reducer needs for my focal length of 714mm a backfocus of 56mm. The image train
 consist of a QHY600PH c-mos camera, a QHYCFW3-XL filter wheel, a QHYOAG-L on axis
 guider and the necessary adapter (s). To define the optical length of the image
 train here are the drawings and calculations.
